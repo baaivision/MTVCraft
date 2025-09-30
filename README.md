@@ -167,7 +167,7 @@ If you find our work useful for your research, please consider citing the paper:
 @article{MTV,
       title={Audio-Sync Video Generation with Multi-Stream Temporal Control},
       author={Weng, Shuchen and Zheng, Haojie and Chang, Zheng and Li, Si and Shi, Boxin and Wang, Xinlong},
-      journal={arXiv preprint arXiv:2506.08003},
+      journal={NeurIPS},
       year={2025}
 }
 ```
