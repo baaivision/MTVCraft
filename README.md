@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-
+## News: Our paper has been accepted by NeurIPS 2025! ##
 
 ## 🎬 Pipeline
 
