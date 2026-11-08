@@ -798,7 +798,7 @@ class DiffusionTransformer(BaseModel):
         self.add_audio_module = add_audio_module
         try:
             self.dtype = str_to_dtype[kwargs.pop("dtype")]
-        except:
+        except KeyError:
             self.dtype = torch.float32
 
         if use_SwiGLU:
